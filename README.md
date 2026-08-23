@@ -56,7 +56,7 @@ The project was designed to:
 
 ---
 
-## How to Run
+## How to Run 👩🏾‍💻
 
 To use the Spotify Analysis:
 
